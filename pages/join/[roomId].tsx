@@ -12,3 +12,5 @@ export const Join = () => {
     </>
   );
 };
+
+export default Join;
